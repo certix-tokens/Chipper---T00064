@@ -1,7 +1,9 @@
+import Hero from "./pages/pageA/sections/Hero"
+
 function App() {
   return (
     <>
-      <h1 className="text-primary text-3xl">hello world</h1>
+      <Hero />
     </>
   );
 }
