@@ -1,9 +1,11 @@
-import Hero from "./pages/pageA/sections/Hero"
+import NavItem from './components/navbar/navItem';
+import HomePage from './pages/HomePage/index';
 
 function App() {
   return (
     <>
-      <Hero />
+      <NavItem />
+      <HomePage />
     </>
   );
 }
