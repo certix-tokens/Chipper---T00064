@@ -1,4 +1,4 @@
-# 🚀 Neko Landing Page
+# 🚀 Chipper Landing Page
 
 A modern and responsive **landing page** built with **React** and **TailwindCSS**.
 
@@ -18,7 +18,7 @@ A modern and responsive **landing page** built with **React** and **TailwindCSS*
 ## 📂 Project Structure
 
 ```csharp
-neko_agency_web/
+chipper/
 │── public/           # Static assets
 │── src/
 │ ├── assets/         # Images, SVGs, icons
