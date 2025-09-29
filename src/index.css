@@ -323,3 +323,14 @@
   border: 3px solid black;
   transition: ease 0.5s;
 } */
+
+@font-face{
+  font-family: 'Wigglye';
+  src: url('./assets/fonts/Wigglye.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-wigglye {
+  font-family: 'Wigglye', cursive;
+}

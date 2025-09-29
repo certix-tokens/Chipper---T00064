@@ -8,10 +8,10 @@ function HomePage() {
   return (
     <>
       <Hero />
-      <Chippernomics />
+      {/* <Chippernomics /> */}
       <Roadmap />
       <Howtobuy />
-      <Community />
+      {/* <Community /> */}
     </>
   );
 }

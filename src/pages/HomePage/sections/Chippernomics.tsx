@@ -1,9 +1,9 @@
-import background from '../../../assets/chippernimics_back.svg'
+import background from '../../../assets/chippernimics_back.png'
 
 function Hero() {
   return (
-    <section className='w-[783.35px]' id='about'>
-      <img src={background} alt="" className="w-[1920.18px] h-[523.35px]"/>
+    <section className='w-full -mt-[80px]' id='about'>
+      {/* <img src={background} alt="" className=""/> */}
     </section>
   );
 }
