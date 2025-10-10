@@ -6,7 +6,7 @@ import rock from '../../../assets/rock.svg'
 
 function Hero() {
   return (
-    <section className='' id='home'>
+    <section className='relative' id='home'>
       <img src={background} alt="" className=''/>
       <h1 className='absolute font-wigglye font-normal text-[169.49px] leading-[1] tracking-[0] text-center top-[823px] left-[193px]'>Chipper</h1>
       <div className='absolute w-[693px] h-auto top-[266px] left-[103px] rounded-[20px] border-black border-[5px] bg-white py-[65px] px-[55.5px] text-[24px] font-Shantell font-semibold '>Welcome to Chipper world! A place full of fun, smiles, and endless adventure. Let’s crack open some joy together! Join Chipper as he bounces through life, spreading positivity wherever he goes. Whether you're a creator, a collector, or just someone looking for a new adventure, Chipper is all about connecting like-minded individuals through unique experiences. Get ready for a delightful journey with your new favorite character!</div>
