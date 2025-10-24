@@ -33,11 +33,11 @@ function NavItem() {
     { id: "about", label: "About Us" },
     { id: "roadmap", label: "Road Map" },
     { id: "howtobuy", label: "How to Buy" },
-    { id: "community", label: "Tokenomics" },
+    { id: "tokenomics", label: "Tokenomics" },
   ];
 
   return (
-    <div className="fixed top-0 left-0 w-full bg-white/10 backdrop-blur-xl z-50 px-[29.5px] max-w-[1920px]">
+    <div className="fixed top-0 left-0 w-full bg-white/10 backdrop-blur-xl z-50 px-[29.5px]">
       <nav className="h-[143px] flex flex-row items-center justify-between font-Shantell">
         <img src={logo} alt="Logo" />
         <div className="flex flex-row gap-x-[64.81px] text-[36px] font-Shantell items-center text-center justify-center">
