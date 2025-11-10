@@ -7,7 +7,7 @@ import egg_hero from '../../../assets/egg_hero.svg'
 function Hero() {
   return (
     <section className="relative w-full overflow-x-hidden bg-cover md:bg-center"
-      style={{ backgroundImage: `url(${background})` }}>
+      style={{ backgroundImage: `url(${background})` }} id='home'>
       <div>
         <img src={background} alt="" className='w-full mx-auto'/>
         <h1 className='absolute font-wigglye font-normal text-[169.49px] leading-[1] tracking-[0] text-center top-[823px] left-[193px]'>Chipper</h1>
